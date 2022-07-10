@@ -1,7 +1,7 @@
 
 # Project Title
 
-I've build an app using my own pub dev package
+I've built an app using my own pub dev package
 
 ## Features
 
