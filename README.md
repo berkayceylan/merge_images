@@ -1,5 +1,5 @@
 
-# Project Title
+# Merge Images
 
 I've built an app using my own pub dev package
 
